@@ -36,7 +36,7 @@ Takes one flag title:
 node app.js read --title="My title"
 ```
 
-Allow you to read a specific note and print it in the console.
+Allow you to read a specific note and print it to the console.
 
 ## List
 
@@ -46,4 +46,4 @@ Takes no flag:
 node app.js remove
 ```
 
-Allow you to list all notes existing.
+Allow you to list all notes existing and print it to the console.
